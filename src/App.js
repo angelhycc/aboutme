@@ -10,7 +10,7 @@ import GamePage from './components/Game';
 
 
 function App() {
-  console.log('load');
+  console.log('load')
   return (
     <>
     <Routes>
