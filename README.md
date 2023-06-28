@@ -1,3 +1,10 @@
+Still under development, not yet deployed to github pages
+to see run the website locally, clone the repo and cd into frontend/src/ and run npm start
+
+my homepage is on http://localhost:XXXX/ (not */aboutme)
+
+
+____________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
